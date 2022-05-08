@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #dv1{
+            width: 150px;
+            height: 150px;
+            color: pink;
+
+        }
+    </style>
+</head>
+<body>
+
+    <b> Target <br>
+        <div id="dv1">DV1</div>
+
+</body>
+</html>
