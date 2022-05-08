@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Hello world <br>
+
+<b>Hello world</b> <br>
+<strong>Hello world </strong><br>
+
+<i>Hello world</i><br>
+<em>Hello world</em><br><br>
+
+<mark>Hello world</mark><br><br>
+
+<b>this is<i>a test</i><mark>content</mark>for make ... </b><br><br>
+<hr width="50%" align="center" color="green">
+
+</body>
+</html>
