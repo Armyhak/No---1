@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Css</title>
+    <style>
+    
+        p{
+            border: 1px dashed #000;
+         }
+
+OR 
+
+
+        p{
+            border-top: 5px solid #ffba05;
+            border-bottom: 3px dashed #f84523;
+            border-left: 5px solid darkred;
+            border-right: 5px solid darkred ;
+        }
+
+    </style>
+
+</head>
+<body>
+<p>This is my para1.</p> <br><br>
+<p>This is my para2.</p>
+</body>
+</html>
