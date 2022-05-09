@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Css</title>
+    <style>
+        p{
+            margin-top: 10px;
+            margin-bottom: 5px;
+            margin-left: 3px;
+            margin-right: 1px;
+        }
+OR
+
+        p{
+            margin: 10px;
+         }
+
+
+
+
+    </style>
+
+</head>
+<body>
+    <p>This is my para1.</p> <br>
+</body>
+</html>
