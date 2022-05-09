@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+      .para
+      {
+          font-size: 28px;
+          color: #913cf3;
+      }
+
+  </style>
+</head>
+<body>
+
+  <p class="para">This is my paragraph</p>
+  <p class="para">This is my new paragraph</p>
+
+</body>
+</html>
