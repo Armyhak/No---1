@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Css</title>
+   <style>
+     .p1{
+       color: red !important;
+     }
+     .p2{
+         color:blue;
+         font-size: 24px;
+     }
+
+   </style>
+</head>
+<body>
+<p class="p1">This is our para1</p>
+<p class="p2">This is our para2</p>
+<p class="p1 p2">This is our para3</p>
+
+</body>
+</html>
